@@ -6,7 +6,7 @@ function Menu(){
     const [searchQuery, setSearchQuery] = useState("");
 
     const foods =[
-        {id: 1, name: "SPAM & EGG", price: 14.99, image:"/images/foods/starter/spamEgg.png"},
+        {id: 1, name: "SPAM & EGG", price: 14.99, image:"images/foods/starter/spamEgg.png"},
         {id: 2, name: "RICH CAKE", price: 23.99, image:"/images/foods/starter/tteokbokki.png"},
         {id: 3, name: "EGG TOTS", price: 11.99, image:"/images/foods/starter/eggTot.png"},
         {id: 4, name: "FRENCH FRIES", price: 7.99, image:"/images/foods/starter/frenchFries.png"},
